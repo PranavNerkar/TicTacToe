@@ -4,3 +4,11 @@
     width: 100px;
     border-radius: 5px;
 }
+
+.square:hover{
+    cursor: pointer;
+}
+
+.not-allowed{
+    cursor: not-allowed !important;
+}
